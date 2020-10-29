@@ -1,1 +1,1 @@
-# -go-gorilla-pg-restsvc
+# go-gorilla-pg-restsvc
